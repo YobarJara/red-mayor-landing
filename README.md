@@ -1,6 +1,6 @@
 # Landing Page del Proyecto: RED MAYOR
 
-Este repositorio contiene la implementación del **Sprint 1** para la Landing Page del proyecto "Red Mayor", como parte del Challenge de la semana y el curso de SI385.
+Este repositorio contiene la implementación del **Sprint 1** para la Landing Page del proyecto "Red Mayor".
 
 ## 1. Información del Proyecto
 
